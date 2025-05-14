@@ -14,6 +14,8 @@ AI agents operate independently to achieve their goals. They can make decisions 
 
 ### 2. Perception
 An AI agent perceives its environment using sensors or data input. These sensors could include cameras, microphones, or even data streams from other systems, depending on the type of agent. The ability to perceive the environment is crucial for informed decision-making.
+![image](https://github.com/user-attachments/assets/af2109c6-4eaa-4979-bb4d-0d59980e4de7)
+
 
 ### 3. Action/Decision-making
 Based on the information it receives, the AI agent must decide on the best course of action to achieve its objectives. This decision-making process can be driven by algorithms, heuristics, or machine learning models, depending on the complexity of the agent.
