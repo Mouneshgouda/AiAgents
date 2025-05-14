@@ -1,4 +1,6 @@
 # Definition and Characteristics of AI Agents
+![Uploading image.png…]()
+
 
 ## Definition of AI Agents
 
