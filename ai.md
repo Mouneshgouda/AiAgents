@@ -19,6 +19,8 @@ An AI agent perceives its environment using sensors or data input. These sensors
 
 ### 3. Action/Decision-making
 Based on the information it receives, the AI agent must decide on the best course of action to achieve its objectives. This decision-making process can be driven by algorithms, heuristics, or machine learning models, depending on the complexity of the agent.
+![image](https://github.com/user-attachments/assets/dc0edb05-4c06-4a82-a6d6-f9768bcd3285)
+
 
 ### 4. Learning
 Many AI agents are capable of learning from their experiences. Through techniques such as reinforcement learning or supervised learning, AI agents can improve their performance over time by adjusting their actions based on feedback from their environment.
