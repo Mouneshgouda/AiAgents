@@ -1,4 +1,6 @@
 # AI Agents in Healthcare: Key Components, Uses, and Benefits
+![image](https://github.com/user-attachments/assets/b01675a9-4d30-4934-ade1-3080f1a7f3c1)
+
 
 An AI agent in healthcare is an intelligent software program trained on patient and medical data to provide virtual assistance by processing input and delivering relevant outcomes.
 
