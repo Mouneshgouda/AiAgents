@@ -1,5 +1,6 @@
 # Definition and Characteristics of AI Agents
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/74a5500d-6b81-4461-8114-12b69dc9bd34)
+
 
 
 ## Definition of AI Agents
